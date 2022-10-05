@@ -1,13 +1,14 @@
 <h1 align="center">batpontoproject-frontend</h1>
 <p align="center">
-    <img src="logo.png" alt="BatPonto Logo" width="200">
+    <img src="logo.png" alt="BatPonto Logo" width="200"><br>
+    <img src="http://img.shields.io/badge/status-finished-brightgreen?style=for-the-badge" alt="Status">
 </p>
 
-### Topics
-:small_blue_diamond: [About](#about-book)  
-:small_blue_diamond: [Features](#features-wrench)  
-:small_blue_diamond: [Running Application](#running-application-arrow_forward)  
-:small_blue_diamond: [Developers Team](#developers-team-octocat)  
+### Topics :large_blue_diamond:
+**:small_blue_diamond: [About :book:](#about-book)**  
+**:small_blue_diamond: [Features :wrench:](#features-wrench)**  
+**:small_blue_diamond: [Running Application :arrow_forward:](#running-application-arrow_forward)**  
+**:small_blue_diamond: [Developers Team :octocat:](#developers-team-octocat)**
 
 ## About :book:
 <p align="justify">
@@ -26,7 +27,6 @@
     <a href="https://developer.android.com/studio" target="_blank">
         <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
     </a>
-    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge" alt="Status">
 </p>
 
 ## Features :wrench:
