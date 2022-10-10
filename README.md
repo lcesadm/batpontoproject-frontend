@@ -55,11 +55,11 @@ npm run android
 ```
 
 ## Developers Team :octocat:
-| [<img src="https://avatars.githubusercontent.com/u/60631170" width=115><br><sub>Leonardo Cesar</sub>](https://github.com/LeoLCM) |  [<img src="https://avatars.githubusercontent.com/u/101664656" width=115><br><sub>Matheus Messias</sub>](https://github.com/MatheusLMessias) |
+| [<img src="https://avatars.githubusercontent.com/u/60631170" width=115><br><sub>Leonardo Cesar</sub>](https://github.com/lcesadm) |  [<img src="https://avatars.githubusercontent.com/u/101664656" width=115><br><sub>Matheus Messias</sub>](https://github.com/MatheusLMessias) |
 | :---: | :---: 
 <p align="center">
     <a href="./LICENSE" target="_blank">
-        <img src="https://img.shields.io/github/license/leolcm/batpontoproject-frontend?style=for-the-badge" alt="MIT LICENSE">
+        <img src="https://img.shields.io/github/license/lcesadm/batpontoproject-frontend?style=for-the-badge" alt="MIT LICENSE">
     </a>
     <br>
     Copyright © 2022 - BatPonto
